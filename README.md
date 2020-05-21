@@ -1,5 +1,4 @@
-# Unity Block Game WebGL
-
+# unity-block-game-website
 This repository is used to manage a website for a game I created using Unity and C#.
 - The game can be found under [unity-block-game](https://github.com/conranpearce/unity-block-game) in my GitHub repositories.
 
