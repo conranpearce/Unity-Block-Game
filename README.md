@@ -29,7 +29,7 @@ Production branch live at https://block-game.netlify.app/
 
 Development branch live at https://block-game-develop.netlify.app/
 
-There is a seperate GitHub respoitory to manage the website of the game under [/unity-block-game-website](https://github.com/conranpearce/unity-block-game-code)
+There is a seperate GitHub respoitory to manage the Unity and C# code for the game iself under [/unity-block-game-code](https://github.com/conranpearce/unity-block-game-code)
 
 ## Prerequisites
 - Unity
