@@ -21,13 +21,8 @@ Game Instructions:
 ## Deployment
 - I have linked the GitHub respository to netlify for live deployment on the master branch.
 
-- Live deployment of the game [here](https://unity-block-game.netlify.app/)
-- Development branch live [here](https://block-game-develop.netlify.app/)
-
-
-Production branch live at https://block-game.netlify.app/
-
-Development branch live at https://block-game-develop.netlify.app/
+- Live deployment of the game at [https://unity-block-game.netlify.app/](https://unity-block-game.netlify.app/)
+- Development branch live at [https://block-game-develop.netlify.app/](https://block-game-develop.netlify.app/)
 
 There is a seperate GitHub respoitory to manage the Unity and C# code for the game iself under [/unity-block-game-code](https://github.com/conranpearce/unity-block-game-code)
 
