@@ -11,12 +11,10 @@
 You can play the game in browser [here](https://block-game.netlify.app/)
 
 Game Instructions:
-- The aim of the game is to reach the end of the map without falling off the edge. 
-- A maximum score of 150 can be achieved. 
+- The aim of the game is to reach a score of 150 without falling off the edge of the map. 
+- If you complete the level or fall off the map the game will reset automatically.
 - Press "A" or "←" to move the player left. 
 - Press "D" or "→" to move the player right. 
-- If you complete the level or fall off the map the game will reset automatically.
-
 
 ## Deployment
 - I have linked the GitHub respository to netlify for live deployment on the master branch.
