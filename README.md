@@ -14,7 +14,7 @@ Game Instructions:
 - The aim of the game is to reach the end of the map without falling off the edge. 
 - A maximum score of 150 can be achieved. 
 - Press "A" or "←" to move the player left. 
-- Press "D" or "→" to move the player left. 
+- Press "D" or "→" to move the player right. 
 - If you complete the level or fall off the map the game will reset automatically.
 
 
